@@ -1,0 +1,22 @@
+b{
+    color: #f8cc08;
+}
+
+#albuns, #footer{
+    background-color: #212529 !important;
+}
+
+#info-footer p{
+    color: white;
+}
+#info-footer a {
+    text-decoration: none;
+}
+
+#footer .text-center{
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
